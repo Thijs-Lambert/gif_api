@@ -1,0 +1,24 @@
+html{
+	height: 100%;
+	font-size: 62.5%;
+}
+
+body{
+	display: flex;
+	align-items: center;
+	flex-flow: column nowrap;
+	font-family: sans-serif;
+	padding: 5rem;
+}
+
+img{
+	object-fit: contain;
+}
+input{
+	width: 30rem;
+}
+
+
+
+
+
